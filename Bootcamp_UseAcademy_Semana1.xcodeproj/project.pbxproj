@@ -13,6 +13,12 @@
 		714746A32851765200F872FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 714746A12851765200F872FB /* Main.storyboard */; };
 		714746A52851765400F872FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 714746A42851765400F872FB /* Assets.xcassets */; };
 		714746A82851765400F872FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 714746A62851765400F872FB /* LaunchScreen.storyboard */; };
+		714746EF285193A000F872FB /* Atividades_1e2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714746EE285193A000F872FB /* Atividades_1e2.swift */; };
+		714746F3285193C200F872FB /* Atividade_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714746F2285193C200F872FB /* Atividade_3.swift */; };
+		714746F5285193CF00F872FB /* Atividades_4e5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714746F4285193CF00F872FB /* Atividades_4e5.swift */; };
+		714746FA2851940000F872FB /* Atividade_6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714746F9285193FF00F872FB /* Atividade_6.swift */; };
+		714746FC2851941000F872FB /* Atividade_7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714746FB2851941000F872FB /* Atividade_7.swift */; };
+		714746FE2851942300F872FB /* Atividade_8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714746FD2851942300F872FB /* Atividade_8.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +49,12 @@
 		714746A92851765400F872FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		714746AE2851765500F872FB /* Bootcamp_UseAcademy_Semana1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Bootcamp_UseAcademy_Semana1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		714746B82851765500F872FB /* Bootcamp_UseAcademy_Semana1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Bootcamp_UseAcademy_Semana1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		714746EE285193A000F872FB /* Atividades_1e2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Atividades_1e2.swift; sourceTree = "<group>"; };
+		714746F2285193C200F872FB /* Atividade_3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Atividade_3.swift; sourceTree = "<group>"; };
+		714746F4285193CF00F872FB /* Atividades_4e5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Atividades_4e5.swift; sourceTree = "<group>"; };
+		714746F9285193FF00F872FB /* Atividade_6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Atividade_6.swift; sourceTree = "<group>"; };
+		714746FB2851941000F872FB /* Atividade_7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Atividade_7.swift; sourceTree = "<group>"; };
+		714746FD2851942300F872FB /* Atividade_8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Atividade_8.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +110,12 @@
 				714746A42851765400F872FB /* Assets.xcassets */,
 				714746A62851765400F872FB /* LaunchScreen.storyboard */,
 				714746A92851765400F872FB /* Info.plist */,
+				714746EE285193A000F872FB /* Atividades_1e2.swift */,
+				714746F2285193C200F872FB /* Atividade_3.swift */,
+				714746F4285193CF00F872FB /* Atividades_4e5.swift */,
+				714746F9285193FF00F872FB /* Atividade_6.swift */,
+				714746FB2851941000F872FB /* Atividade_7.swift */,
+				714746FD2851942300F872FB /* Atividade_8.swift */,
 			);
 			path = Bootcamp_UseAcademy_Semana1;
 			sourceTree = "<group>";
@@ -235,7 +253,13 @@
 			files = (
 				714746A02851765200F872FB /* ViewController.swift in Sources */,
 				7147469C2851765200F872FB /* AppDelegate.swift in Sources */,
+				714746F5285193CF00F872FB /* Atividades_4e5.swift in Sources */,
+				714746FC2851941000F872FB /* Atividade_7.swift in Sources */,
+				714746FA2851940000F872FB /* Atividade_6.swift in Sources */,
 				7147469E2851765200F872FB /* SceneDelegate.swift in Sources */,
+				714746FE2851942300F872FB /* Atividade_8.swift in Sources */,
+				714746F3285193C200F872FB /* Atividade_3.swift in Sources */,
+				714746EF285193A000F872FB /* Atividades_1e2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
